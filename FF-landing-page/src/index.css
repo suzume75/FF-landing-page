@@ -6,3 +6,12 @@
   --text-color: #white; /* White for text */
   --accent-color: #ffb800; /* Orange for accents */
 }
+
+/* Hide scrollbar */
+.scrollbar-hide::-webkit-scrollbar {
+  display: none;
+}
+.scrollbar-hide {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
