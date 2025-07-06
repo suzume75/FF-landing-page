@@ -7,6 +7,7 @@ import SpecialOfferBanner from './SpecialOffer-banner.jsx'
 import ServicesSection from './servicesSection.jsx'
 import AboutUs from './aboutUs.jsx'
 import CustomerReviews from './customerReviews.jsx'
+import ContactUs from './contactUs.jsx'
 
 function App() {
 
@@ -19,6 +20,7 @@ function App() {
     <ServicesSection />
     <AboutUs />
     <CustomerReviews />
+    <ContactUs />
     </>
   )
 }
