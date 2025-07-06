@@ -4,7 +4,7 @@ import React from "react";
 
 function SpecialOfferBanner() {
     return (
-        <div className="w-full min-h-[400px] flex fjustify-center align-between bg-(--primary-color) rounded-lg  shadow-lg">
+        <div className="mx-auto my-20 w-full min-h-[400px] flex fjustify-center align-between bg-(--primary-color) rounded-lg  shadow-lg">
   <div className="w-full md:w-1/2 p-8 flex flex-col justify-center z-10">
     <h2 className="text-3xl font-extrabold text-white text-center">Today's special</h2>
     <h1 className="text-4xl font-extrabold text-(--accent-color) my-4 text-center">Surprise for you!</h1>

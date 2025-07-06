@@ -4,6 +4,7 @@ import Navbar from './navbar.jsx'
 import Hero from './hero.jsx'
 import Menu from './menu.jsx'
 import SpecialOfferBanner from './SpecialOffer-banner.jsx'
+import ServicesSection from './servicesSection.jsx'
 
 function App() {
 
@@ -13,6 +14,7 @@ function App() {
     <Hero />
     <Menu />
     <SpecialOfferBanner />
+    <ServicesSection />
     </>
   )
 }
