@@ -5,6 +5,7 @@ import Hero from './hero.jsx'
 import Menu from './menu.jsx'
 import SpecialOfferBanner from './SpecialOffer-banner.jsx'
 import ServicesSection from './servicesSection.jsx'
+import AboutUs from './aboutUs.jsx'
 
 function App() {
 
@@ -15,6 +16,7 @@ function App() {
     <Menu />
     <SpecialOfferBanner />
     <ServicesSection />
+    <AboutUs />
     </>
   )
 }

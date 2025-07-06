@@ -11,7 +11,7 @@ function SpecialOfferBanner() {
     <p className="mb-6 text-gray-200 text-center">Get our best burger now at a special price!</p>
     <div className="flex justify-around items-center mx-10">
     <span className="text-6xl font-extrabold text-(--accent-color)">40$</span>
-    <button className="bg-(--accent-color) text-black px-6 py-3 rounded font-semibold hover:bg-black transition">
+    <button className="bg-(--accent-color) text-black px-6 py-3 rounded font-semibold hover:bg-black hover:text-white transition">
       Order Now
     </button>
     </div>
