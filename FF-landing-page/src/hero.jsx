@@ -14,7 +14,7 @@ function Hero() {
                 <h1 className="font-extrabold text-(--accent-color) text-7xl"> 
                     Hungry ?
                 </h1>
-                <p className="text-white text-lg mt-4">
+                <p className="text-gray-400 text-lg mt-4">
                     You can order here,
                     Very easy and simple to use.
                 </p>

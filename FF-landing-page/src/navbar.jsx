@@ -15,7 +15,7 @@ function Navbar() {
                 <a href="#" className="text-gray-600 hover:text-gray-800 ml-8 cursor-pointer">About Us</a>
                 <a href="#" className="text-gray-600 hover:text-gray-800 ml-8 cursor-pointer">Contact</a>
                 </div>
-                <button className="bg-(--accent-color) px-5 py-3 rounded-xl text-(--secondary-color)">Order Now</button>
+                <button className="bg-(--accent-color) px-5 py-3 rounded-xl text-(--secondary-color) hover:bg-black">Order Now</button>
             </nav>
         </>
     )
