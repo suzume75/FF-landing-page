@@ -8,6 +8,7 @@ import ServicesSection from './servicesSection.jsx'
 import AboutUs from './aboutUs.jsx'
 import CustomerReviews from './customerReviews.jsx'
 import ContactUs from './contactUs.jsx'
+import Footer from './footer.jsx'
 
 function App() {
 
@@ -21,6 +22,7 @@ function App() {
     <AboutUs />
     <CustomerReviews />
     <ContactUs />
+    <Footer />
     </>
   )
 }
