@@ -5,7 +5,7 @@ function Hero() {
     <div className="hero">
         <div className="hero-content absolute flex flex-row justify-around items-center w-full h-full top-0 left-0">
             <div className="hero-img">
-                <img src="./src/assets/delivery-guy.png" alt="Delivery Guy" className="w-96 h-96 object-cover" />
+                <img src="./src/assets/delivery-guy.png" alt="Delivery Guy" className="w-120 h-120 object-cover" />
             </div>
             <div className="hero-text">
                 <h1 className="font-bold text-white text-4xl">
@@ -19,7 +19,7 @@ function Hero() {
                     Very easy and simple to use.
                 </p>
                 <button className="bg-(--accent-color) px-5 py-3 rounded-xl text-(--secondary-color) hover:bg-black">Order Now</button>
-                <button className=" border-2 border-(--accent-color) px-5 py-3 mx-5 my-3 rounded-xl text-(--secondary-color) hover:bg-(--accent-color)">More Menu</button>
+                <button className=" border-2 border-(--accent-color) px-5 py-3 mx-5 my-3 rounded-xl text-(--secondary-color) hover:bg-(--accent-color)">See Menu</button>
             </div>
         </div>
       <div>
@@ -52,7 +52,7 @@ function Hero() {
             transform="rotate(-180 720 350)"
             stroke="none"
             strokeWidth="0"
-            fill="(--primary-color)"
+            fill="hsl(0, 0.00%, 0.00%)"
             fillOpacity="0.8"
             d="M 0,700 L 0,131 C 70.45968335787926,141.12546023564065 140.9193667157585,151.2509204712813 194,160 C 247.0806332842415,168.7490795287187 282.7822164948453,176.12177835051548 341,200 C 399.2177835051547,223.87822164948452 479.95176730486014,264.26196612665683 553,283 C 626.0482326951399,301.73803387334317 691.4107142857143,298.83035714285717 741,320 C 790.5892857142857,341.16964285714283 824.4053755522827,386.4166053019145 887,409 C 949.5946244477173,431.5833946980855 1040.9677835051546,431.5032216494846 1102,458 C 1163.0322164948454,484.4967783505154 1193.7234904270988,537.5705081001472 1245,575 C 1296.2765095729012,612.4294918998528 1368.1382547864505,634.2147459499264 1440,656 L 1440,700 L 0,700 Z"
           />
