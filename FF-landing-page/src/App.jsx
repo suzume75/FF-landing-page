@@ -6,6 +6,7 @@ import Menu from './menu.jsx'
 import SpecialOfferBanner from './SpecialOffer-banner.jsx'
 import ServicesSection from './servicesSection.jsx'
 import AboutUs from './aboutUs.jsx'
+import CustomerReviews from './customerReviews.jsx'
 
 function App() {
 
@@ -17,6 +18,7 @@ function App() {
     <SpecialOfferBanner />
     <ServicesSection />
     <AboutUs />
+    <CustomerReviews />
     </>
   )
 }
