@@ -117,3 +117,68 @@
  -Linux Mint (local development)
 
  ////////////////////////////////////////////////////////////////////////////
+
+ 📅 Date: 2025-07-06
+
+
+✅ Tasks Completed:
+
+ -Made rest of the sections
+
+ -Added some animations
+
+ -Done with the desktop version
+
+ -learned more about Tailwind CSS
+
+🧠 What I Learned:
+
+ -More useful utilities of Tailwind 
+
+ -How to link animations trough the project files 
+
+ -How to make a horizontal scrolling menu
+
+ -Cool animation tricks  
+
+ -How to change the cursor's look when hovering
+
+🐞 Issues Faced:
+
+ -The animation behaved weirdly 
+
+ -The styling was hard but I did it 
+
+🔧 How I Solved Them:
+
+ -Asked ChatGPT on how to link the animations to my project 
+
+ -Looked into the official Tailwind CSS docs to debug
+
+🎯 Next Steps:
+
+ -Start working about the responsivness
+
+ -Final touches
+
+🧰 Tools Used:
+
+ -VS Code
+
+ -Tailwind CSS
+
+ -Vite
+
+ -Git & GitHub
+
+ -Animation generator
+
+ -Font Awesome
+
+ -Lorem Ipsum generator
+
+ -CodePen for the animations 
+
+ -Linux Mint (local development)
+
+ ////////////////////////////////////////////////////////////////////////////
