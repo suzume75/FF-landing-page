@@ -191,6 +191,8 @@
 
  -Started making the landing page responsive 
 
+ -Made the navbar fully responsive
+
 🧠 What I Learned:
 
  -I learned something that I should have known before starting to use Tailwind CSS.
@@ -211,7 +213,7 @@
 
 🎯 Next Steps:
 
- -Starting the process of making everything responsive 
+ -Continuing the process of making everything responsive 
 
 🧰 Tools Used:
 
