@@ -182,3 +182,51 @@
  -Linux Mint (local development)
 
  ////////////////////////////////////////////////////////////////////////////
+
+
+📅 Date: 2025-07-07
+
+
+✅ Tasks Completed:
+
+ -Started making the landing page responsive 
+
+🧠 What I Learned:
+
+ -I learned something that I should have known before starting to use Tailwind CSS.
+ And it is that, to use this framework, I have to make the mobile design first, not
+ the desktop version, as I used to do using the pure CSS. 
+
+ -I learned that before attempting to make something, I have to go deeper in the reaserch process. 
+
+🐞 Issues Faced:
+
+ -Making the website responsive took a very sharp turn, and now I got to re write the styles over again
+
+🔧 How I Solved Them:
+
+ -Took a deep look now to the Tailwind CSS docs and tried to understand them as hard as I can. 
+
+ -Googled "how to make the UI components responsive using Tailwind CSS"
+
+🎯 Next Steps:
+
+ -Starting the process of making everything responsive 
+
+🧰 Tools Used:
+
+ -VS Code
+
+ -Google
+
+ -YouTube
+
+ -Tailwind CSS
+
+ -Vite
+
+ -Git & GitHub
+
+ -Linux Mint (local development)
+
+ ////////////////////////////////////////////////////////////////////////////
