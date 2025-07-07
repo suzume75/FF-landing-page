@@ -15,14 +15,7 @@ function App() {
   return (
     <>
     <Navbar />
-    <Hero />
-    <Menu />
-    <SpecialOfferBanner />
-    <ServicesSection />
-    <AboutUs />
-    <CustomerReviews />
-    <ContactUs />
-    <Footer />
+    
     </>
   )
 }
