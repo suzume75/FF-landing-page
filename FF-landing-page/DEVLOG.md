@@ -232,3 +232,14 @@
  -Linux Mint (local development)
 
  ////////////////////////////////////////////////////////////////////////////
+
+ 📅 Date: 2025-07-08
+
+
+ -Today I did more theory than practice, because I lack some fondamentals. 
+
+ 🎯 Next steps: 
+
+ -Starting to make the hero section responsive 
+
+ ////////////////////////////////////////////////////////////////////////////
