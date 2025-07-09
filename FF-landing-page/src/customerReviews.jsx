@@ -7,7 +7,7 @@ function CustomerReviews() {
     <section className="py-16 px-4">
       <div className="max-w-7xl mx-auto text-center">
         <h2 className="text-4xl font-bold mb-12">
-          What <span class="text-(--accent-color)">They</span> Say
+          What <span className="text-(--accent-color)">They</span> Say
         </h2>
 
         <div className="flex gap-6 overflow-x-auto scrollbar-hide px-2">
