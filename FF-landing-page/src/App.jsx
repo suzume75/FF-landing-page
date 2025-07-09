@@ -19,6 +19,7 @@ function App() {
     <Menu />
     <SpecialOfferBanner />
     <ServicesSection />
+    <AboutUs />
     </>
   )
 }
