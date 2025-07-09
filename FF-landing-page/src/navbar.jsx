@@ -21,7 +21,7 @@ function Navbar() {
                 xmlns="http://www.w3.org/2000/svg" 
                 viewBox="0 0 50 50"
                 fill="#fff"
-                className="cursor-pointer text-gray-200  w-6 h-6 md:hidden lg:hidden xl:hidden 2xl:hidden"
+                className="cursor-pointer text-gray-200 bg-gray-600 p-1 rounded-l w-8 h-8 md:hidden lg:hidden xl:hidden 2xl:hidden"
                 >
                     <path d="M 0 7.5 L 0 12.5 L 50 12.5 L 50 7.5 Z M 0 22.5 L 0 27.5 L 50 27.5 L 50 22.5 Z M 0 37.5 L 0 42.5 L 50 42.5 L 50 37.5 Z"></path>
                 </svg>
