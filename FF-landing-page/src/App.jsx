@@ -20,6 +20,7 @@ function App() {
     <SpecialOfferBanner />
     <ServicesSection />
     <AboutUs />
+    <CustomerReviews />
     </>
   )
 }
