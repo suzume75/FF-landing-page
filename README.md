@@ -75,8 +75,11 @@ This project is a responsive landing page that showcases a food delivery service
 1. **Clone the repo**  
    ```bash
    git clone https://github.com/suzume75/FF-landing-page.git
+   ```
+   ```
    cd FF-landing-page
-   
+   ```
+
 2. **Install dependencies**
 
    ```bash
