@@ -29,10 +29,10 @@ function Navbar() {
                 {isOpen && (<div  className="relative bg-(--primary-color) h-90 flex items-center justify-center flex-col">
                 <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Home</a>
                 <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Menu</a>
-                <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Servises</a>
+                <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Services</a>
                 <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">About Us</a>
                 <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Contact</a>
-                <button className="bg-(--accent-color) mx-4 my-4 px-5 py-3 rounded-xl text-bllack hover:bg-black hover:text-white">Order Now</button>
+                <button className="bg-(--accent-color) mx-4 my-4 px-5 py-3 rounded-xl text-black hover:bg-black hover:text-white">Order Now</button>
                 </div>)}
 
 

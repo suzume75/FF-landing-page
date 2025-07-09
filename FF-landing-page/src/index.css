@@ -5,7 +5,7 @@
 :root {
   --primary-color: hsl(240, 15%, 12%); /* Dark Gray */
   --secondary-color: #f0f0f0; /* Light gray for backgrounds */
-  --text-color: #white; /* White for text */
+  --text-color: white; /* White for text */
   --accent-color: #ffb700; /* Orange for accents */
 }
 

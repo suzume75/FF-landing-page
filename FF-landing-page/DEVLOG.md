@@ -243,3 +243,52 @@
  -Starting to make the hero section responsive 
 
  ////////////////////////////////////////////////////////////////////////////
+
+
+📅 Date: 2025-07-07
+
+
+✅ Tasks Completed:
+
+ -Finished making everything responsive 
+
+ -Deployed it on github pages 
+
+🧠 What I Learned:
+
+ -I learned how to deploy in github pages 
+
+ -I learned more about Tailwind in general (the responsiveness)
+
+🐞 Issues Faced:
+
+ -the responsiveness was really confusing at first but I eventually made it. 
+
+ -The deployment didn't go smoothly and I faced some issues
+
+🔧 How I Solved Them:
+
+ -Took a deep look now to the Tailwind CSS docs and tried to understand them as hard as I can. 
+
+ -Googled some websites that explained how to make responsive websites in Tailwind CSS.
+
+ -Used ChatGPT to boost my productivity, in order to not stay stuck for a long time 
+
+🎯 Next Steps:
+
+ -Continuing the process of making everything responsive 
+
+🧰 Tools Used:
+
+ -VS Code
+
+ -Google
+
+ -Tailwind CSS
+
+ -Vite
+
+ -Git & GitHub
+
+
+ ////////////////////////////////////////////////////////////////////////////
