@@ -18,7 +18,7 @@ function Hero() {
                     You can order here,
                     Very easy and simple to use.
                 </p>
-                <button className="bg-(--accent-color) px-5 py-3 rounded-xl text-(--secondary-color) uppercase hover:bg-black">Order Now</button>
+                <button className="bg-(--accent-color) px-5 py-3 rounded-xl text-black font-bold uppercase hover:bg-black">Order Now</button>
                 <button className=" border-2 border-(--accent-color) px-5 py-3 mx-5 my-3 rounded-xl md:text-(--secondary-color) md:text-white md:bg-(--primary-color) lg:text-white text-black hover:bg-(--accent-color)  ">See Menu</button>
             </div>
         </div>

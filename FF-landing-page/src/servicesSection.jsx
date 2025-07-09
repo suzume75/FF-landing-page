@@ -11,11 +11,11 @@ import { faTruckFast,
 function ServicesSection() {
     return(
         <>
-        <div className="services-section flex justify-center items-around flex-col md:flex-row bg-gray-50 p-20 mx-auto">
+        <div className="services-section flex justify-center items-around flex-col md:flex-row bg-gray-50 mx-auto">
             <section className="bg-white py-10">
                 <div className="container mx-auto px-4">
                     <h2 className="text-3xl font-bold text-center mb-6">Our Services</h2>
-                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+                    <div className="grid grid-cols-1 md:grid-cols-2 gap-6 min-w-60">
                         <div className="bg-(--accent-color) hover:bg-gray-200 hover:shadow-md  p-6 rounded-lg shadow-md">
                             <FontAwesomeIcon icon={faTruckFast} /> 
                             <h3 className="text-xl font-semibold mb-2">Fast Delivery</h3>
@@ -39,7 +39,7 @@ function ServicesSection() {
                     </div>
                 </div>
             </section>
-            <img src="./src/assets/delivery-guy.png" alt="Delivery" className="w-120 h-auto object-cover bg-(--primary-color) rounded-bl-lg rounded-full shadow-lg ml-4" />
+            <img src="./src/assets/delivery-guy.png" alt="Delivery" className="hidden lg:block lg:w-90 lg:h-90 lg:object-cover lg:bg-(--primary-color) lg:rounded-bl-lg lg:rounded-full lg:shadow-lg lg:ml-4 lg:my-25" />
         </div>    
         </>
     );
