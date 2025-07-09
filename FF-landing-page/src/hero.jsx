@@ -2,7 +2,7 @@ import React from 'react';
 
 function Hero() {
   return (
-    <div className="hero h-screen">
+    <div className="hero h-90 z-0">
         <div className="hero-content absolute flex flex-row justify-around items-center w-full h-full top-0 left-0">
             <div className="hero-img">
                 <img src="./src/assets/delivery-guy.png" alt="Delivery Guy" className="hidden sm:block xl:w-100 xl:h-100 sm:w-70 sm:h-70 sm:m-5 sm:object-cover" />

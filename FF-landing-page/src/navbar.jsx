@@ -13,20 +13,20 @@ function Navbar() {
         
 
             <>
-            <nav className="bg-(--primary-color) shadow-md ">
-                <div className="flex justify-between items-center mx-w-7xl px-4">
+            <nav className="relative bg-(--primary-color) z-50 top-0 left-0 w-full">
+                <div className="flex justify-between items-center max-w-7xl px-4">
                 <img src="./src/assets/logo.png" alt="logo" className="h-15 w-15 md:hidden" />
                 <svg 
                 onClick={toggleMenu}
                 xmlns="http://www.w3.org/2000/svg" 
                 viewBox="0 0 50 50"
                 fill="#fff"
-                className="cursor-pointer text-gray-200 bg-gray-600 p-1 rounded-l w-8 h-8 md:hidden lg:hidden xl:hidden 2xl:hidden"
+                className="cursor-pointer text-gray-200 bg-gray-600 p-1 rounded-l w-8 h-8 md:hidden"
                 >
                     <path d="M 0 7.5 L 0 12.5 L 50 12.5 L 50 7.5 Z M 0 22.5 L 0 27.5 L 50 27.5 L 50 22.5 Z M 0 37.5 L 0 42.5 L 50 42.5 L 50 37.5 Z"></path>
                 </svg>
                 </div>
-                {isOpen && (<div  className="flex items-center justify-center flex-col">
+                {isOpen && (<div  className="relative bg-(--primary-color) h-90 flex items-center justify-center flex-col">
                 <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Home</a>
                 <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Menu</a>
                 <a href="#" className="text-white my-1 border-1 border-(--accent-color) w-1/2 text-center rounded-l hover:text-(--accent-color) hover:opacity-70 cursor-pointer">Servises</a>

@@ -17,6 +17,7 @@ function App() {
     <Navbar />
     <Hero />
     <Menu />
+    <SpecialOfferBanner />
     </>
   )
 }
