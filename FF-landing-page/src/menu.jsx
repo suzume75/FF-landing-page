@@ -3,8 +3,8 @@ import ItemCard from "./menu/itemCard";
 
 function Menu() {
   return (
-    <div className="menu">
-      <h1 className="text-4xl font-extrabold text-center my-8">Our Menu</h1>
+    <div className="menu mx-w-7xl mx-auto my-10 h-full">
+      <h1 className="md:text-4xl md:font-extrabold md:text-center md:my-8 font-extrabold text-center text-2xl">Our Menu</h1>
       <div className="flex gap-6 overflow-x-auto px-4 py-6 scrollbar-hide">
         <ItemCard
           title="Pasta"
