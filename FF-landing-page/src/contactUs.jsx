@@ -28,7 +28,7 @@ function ContactUs() {  return (
           ></textarea>
           <button
             type="submit"
-            className="w-full bg-(--accent-color) text-white py-3 rounded-lg hover:bg-black hover:text-white transition duration-300"
+            className="w-full bg-(--accent-color) text-black py-3 rounded-lg hover:bg-black hover:text-white transition duration-300"
           >
             Send Message
           </button>
